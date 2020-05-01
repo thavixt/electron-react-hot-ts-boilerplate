@@ -1,7 +1,7 @@
 {
   "name": "electron-react-hot-ts-boilerplate",
   "version": "1.0.0",
-  "description": "Electron React App with Hot Reload",
+  "description": "Electron React App with Typescript and Hot Reload",
   "keywords": [
     "electron",
     "react",
